@@ -72,10 +72,23 @@
 </tr>
 </thead>
 <tbody>
+
+<tr>
+<td><a href="https://github.com/KranKRival/BootSoundNX/releases">BootSoundNX</a></td>
+<td align="center">1.1.0</td>
+<td align="center">Plays sound on the Nintendo Switch boot</td>
+</tr>
+
 <tr>
 <td><a href="https://github.com/retronx-team/sys-clk/releases">sys-clk</a></td>
 <td align="center">1.0.0</td>
-<td align="center">Overclock</td>
+<td align="center">Allow to set cpu/gpu/mem clocks according to the running application and docked state</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/cathery/sys-ftpd-light/releases">sys-ftpd-light</a></td>
+<td align="center">1.0.4</td>
+<td align="center">Allows transfer files over local network via FTP</td>
 </tr>
 
 <tr>
@@ -85,15 +98,15 @@
 </tr>
 
 <tr>
-<td><a href="https://github.com/cathery/sys-ftpd-light/releases">sys-ftpd-light</a></td>
-<td align="center">1.0.4</td>
-<td align="center">Allows transfer files over local network via ftp</td>
+<td><a href="https://github.com/ndeadly/MissionControl/releases">MissionControl</a></td>
+<td align="center">0.4.1</td>
+<td align="center">Connect third-party controller support with Bluetooth</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/ndeadly/MissionControl/releases ">MissionControl</a></td>
-<td align="center">0.4.1</td>
-<td align="center">Connect third-party controller support with bluetooth</td>
+<td><a href="https://github.com/WerWolv/nx-ovlloader/releases">nx-ovlloader</a></td>
+<td align="center">1.0.6</td>
+<td align="center">Host process for loading Switch overlay OVLs (NROs)</td>
 </tr>
 
 </tbody>
