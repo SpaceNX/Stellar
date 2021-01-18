@@ -45,19 +45,19 @@
 <thead>
 <tr>
 <th>Software</th>
-<th align="center">Normal Package</th>
-<th align="center">Minimal Package</th>
+<th align="center">Version </th>
+<th align="center">Function </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><a href="https://github.com/Atmosphere-NX/Atmosphere">Atmosphère</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
+<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">V 0.17.1</g-emoji></td>
 <td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
 </tr>
 <tr>
 <td><a href="https://github.com/CTCaer/hekate">Hekate</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
+<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">V 5.5.3</g-emoji></td>
 <td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
 </tr>
 <tr>
