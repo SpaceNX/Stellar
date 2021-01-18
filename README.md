@@ -158,15 +158,99 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/retronx-team/sys-clk/releases">sys-clk</a></td>
-<td align="center">1.0.0</td>
-<td align="center">Overclock</td>
+<td><a href="https://github.com/meganukebmp/Switch_90DNS_tester/releases">Switch_90DNS_tester</a></td>
+<td align="center">1.0.2</td>
+<td align="center">NA</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/cathery/sys-con/releases">sys-con</a></td>
-<td align="center">0.6.2</td>
-<td align="center">Connect Generic Gamepads via USB</td>
+<td><a href="https://github.com/Huntereb/Awoo-Installer/releases">Awoo-Installer</a></td>
+<td align="center">1.3.4</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/FlagBrew/Checkpoint/releases">Checkpoint</a></td>
+<td align="center">3.7.4</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://switchtools.sshnuke.net/">ChoidujourNX</a></td>
+<td align="center">1.0.2</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/rashevskyv/dbi/releases">DBI Installer</a></td>
+<td align="center">2.1.6</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/devgru/FreshHay/releases">FreshHay</a></td>
+<td align="center">0.1.0</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/mtheall/ftpd/releases">ftpd</a></td>
+<td align="center">3.0.0</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/blawar/goldbricks/releases">goldbricks</a></td>
+<td align="center">1.0.0</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/XorTroll/Goldleaf/releases">Goldleaf</a></td>
+<td align="center">0.0.8</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/rdmrocha/linkalho/releases">linkalho</a></td>
+<td align="center">1.0.4</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://tinfoil.media/repo/lithium.latest.zip">Litium</a></td>
+<td align="center">0.11.0</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/D3fau4/NightFall/releases">NightFall</a></td>
+<td align="center">1.1.2</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/joel16/NX-Shell/releases">NX-Shell</a></td>
+<td align="center">3.2.0</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/suchmememanyskill/Payload_Launcher/releases">Payload_Launcher</a></td>
+<td align="center">3.0.0</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://tinfoil.media/repo/tinfoil.latest.zip">Tinfoil</a></td>
+<td align="center">0.11.0</td>
+<td align="center">NA</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/blawar/tinleaf/releases">Tinleaf</a></td>
+<td align="center">1.4.4</td>
+<td align="center">NA</td>
 </tr>
 
 </tbody>
