@@ -122,15 +122,27 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/retronx-team/sys-clk/releases">sys-clk</a></td>
-<td align="center">1.0.0</td>
-<td align="center">Overclock</td>
+<td><a href="https://github.com/WerWolv/Tesla-Menu/releases">Tesla-Menu</a></td>
+<td align="center">1.1.3</td>
+<td align="center">The initial overlay menu to be loaded by nx-ovlloader</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/cathery/sys-con/releases">sys-con</a></td>
-<td align="center">0.6.2</td>
-<td align="center">Connect Generic Gamepads via USB</td>
+<td><a href="https://github.com/WerWolv/ovl-sysmodules/releases">ovl-sysmodules</a></td>
+<td align="center">1.2.1</td>
+<td align="center">A Tesla overlay that allows you to toggle sysmodules on the fly</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/masagrator/Status-Monitor-Overlay/releases">Status-Monitor-Overlay</a></td>
+<td align="center">0.6.3</td>
+<td align="center">Monitor many stats of Nintendo Switch hardware</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Hartie95/fastCFWswitch/releases">fastCFWswitch</a></td>
+<td align="center">1.1.0</td>
+<td align="center">A tesla based overlay to boot into different payloads</td>
 </tr>
 
 </tbody>
