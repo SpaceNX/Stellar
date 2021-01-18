@@ -52,11 +52,13 @@
 <tbody>
 <tr>
 <td><a href="https://github.com/Atmosphere-NX/Atmosphere">Atmosphère</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">0.17.1</g-emoji></td>
+<td align="center">0.17.1</td>
+<td align="center">Custome Firmware Base</td>
 </tr>
 <tr>
 <td><a href="https://github.com/CTCaer/hekate">Hekate</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">5.5.3</g-emoji></td>
+<td align="center">5.5.3</td>
+<td align="center">Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more</td>
 </tr>
 </tbody>
 </table>
@@ -79,7 +81,19 @@
 <tr>
 <td><a href="https://github.com/cathery/sys-con/releases">sys-con</a></td>
 <td align="center">0.6.2</td>
-<td align="center">Connect Generic Gamepads via USB</td>
+<td align="center">Connect third-party controller support with USB connection</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/cathery/sys-ftpd-light/releases">sys-ftpd-light</a></td>
+<td align="center">1.0.4</td>
+<td align="center">Allows transfer files over local network via ftp</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/ndeadly/MissionControl/releases ">MissionControl</a></td>
+<td align="center">0.4.1</td>
+<td align="center">Connect third-party controller support with bluetooth</td>
 </tr>
 
 </tbody>
