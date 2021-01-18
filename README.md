@@ -82,9 +82,52 @@
 <td align="center">Connect Generic Gamepads via USB</td>
 </tr>
 
+</tbody>
+</table>
+
+<table>
+<thead>
 <tr>
-<td><a href="https://github.com/CTCaer/hekate">Hekate</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">5.5.3</g-emoji></td>
+<th>Overlays</th>
+<th align="center">Version </th>
+<th align="center">Function </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/retronx-team/sys-clk/releases">sys-clk</a></td>
+<td align="center">1.0.0</td>
+<td align="center">Overclock</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/cathery/sys-con/releases">sys-con</a></td>
+<td align="center">0.6.2</td>
+<td align="center">Connect Generic Gamepads via USB</td>
+</tr>
+
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>Apps - Homebrews</th>
+<th align="center">Version </th>
+<th align="center">Function </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/retronx-team/sys-clk/releases">sys-clk</a></td>
+<td align="center">1.0.0</td>
+<td align="center">Overclock</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/cathery/sys-con/releases">sys-con</a></td>
+<td align="center">0.6.2</td>
+<td align="center">Connect Generic Gamepads via USB</td>
 </tr>
 
 </tbody>
