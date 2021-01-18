@@ -52,113 +52,40 @@
 <tbody>
 <tr>
 <td><a href="https://github.com/Atmosphere-NX/Atmosphere">Atmosphère</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">V 0.17.1</g-emoji></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
+<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">0.17.1</g-emoji></td>
 </tr>
 <tr>
 <td><a href="https://github.com/CTCaer/hekate">Hekate</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">V 5.5.3</g-emoji></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
+<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">5.5.3</g-emoji></td>
 </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
 <tr>
-<td><a href="https://gitlab.com/4TU/hb-appstore" rel="nofollow">Homebrew App Store</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
+<th>Sysmodules</th>
+<th align="center">Version </th>
+<th align="center">Function </th>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td><a href="https://github.com/NicholeMattera/Hekate-Icons">Hekate Icons</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
+<td><a href="https://github.com/retronx-team/sys-clk/releases">sys-clk</a></td>
+<td align="center">1.0.0</td>
+<td align="center">Overclock</td>
 </tr>
+
 <tr>
-<td><a href="https://github.com/WerWolv/EdiZon">EdiZon</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
+<td><a href="https://github.com/cathery/sys-con/releases">sys-con</a></td>
+<td align="center">0.6.2</td>
+<td align="center">Connect Generic Gamepads via USB</td>
 </tr>
+
 <tr>
-<td><a href="https://github.com/XorTroll/emuiibo">emuiibo</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
+<td><a href="https://github.com/CTCaer/hekate">Hekate</a></td>
+<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">5.5.3</g-emoji></td>
 </tr>
-<tr>
-<td><a href="https://github.com/XorTroll/Goldleaf">Goldleaf</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Team-Neptune/NSAInstaller">Deepsea NSAInstaller</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Team-Neptune/DeepSea-Toolbox">DeepSea Toolbox</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Team-Neptune/DeepSea-Updater">DeepSea Updater</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Team-Neptune/DeepSea-Cleaner">DeepSea Cleaner</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/J-D-K/JKSV">JKSV</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/liuervehc/nxmtp">nxmtp</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/shchmue/Lockpick_RCM">Lockpick_RCM</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/WerWolv/Tesla-Menu">Tesla-Menu</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/WerWolv/nx-ovlloader">nx-ovlloader</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/WerWolv/ovl-sysmodules">ovlSysmodules</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/masagrator/Status-Monitor-Overlay">Status Monitor Overlay</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/retronx-team/sys-clk">sys-clk</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/cathery/sys-con">sys-con</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/cathery/sys-ftpd-light">sys-ftpd-light</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td><a href="https://github.com/spacemeowx2/ldn_mitm">ldn_mitm</a></td>
-<td align="center"><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji></td>
-<td align="center"></td>
-</tr>
+
 </tbody>
 </table>
